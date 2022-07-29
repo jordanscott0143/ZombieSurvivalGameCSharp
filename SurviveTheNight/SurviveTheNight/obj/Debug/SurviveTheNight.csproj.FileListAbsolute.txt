@@ -1,0 +1,16 @@
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\bin\Debug\SurviveTheNight.exe.config
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\bin\Debug\SurviveTheNight.exe
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\bin\Debug\SurviveTheNight.pdb
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.Properties.Resources.resources
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.csproj.GenerateResource.cache
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.csproj.CoreCompileInputs.cache
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.exe
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.pdb
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.MainMenu.resources
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.HelpForm.resources
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.PlayForm.resources
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.About.resources
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.HighScore.resources
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.csproj.AssemblyReference.cache
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.GameMode.resources
+C:\Users\stylo\source\repos\SurviveTheNight\SurviveTheNight\obj\Debug\SurviveTheNight.PlayFormHardMode.resources
